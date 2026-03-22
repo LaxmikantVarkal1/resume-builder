@@ -1,6 +1,7 @@
 {
   "name": "resume-builder",
   "private": true,
+  "homepage": "https://laxmikantvarkal1.github.io/resume-builder/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
